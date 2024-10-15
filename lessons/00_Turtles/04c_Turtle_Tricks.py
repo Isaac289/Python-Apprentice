@@ -8,7 +8,8 @@ and in different places on the screen.
 You should look at the previous program, 02_Meet_TIna.py
 to see how to use the turtle commands.
 
-"""
+"""skibidi toiletsadjfhsdjhf shfjsdjkfjksad f hfsdfkasjkflsjklajjkjjkjdsfkjasf jaskdfjiaosiisdaasdf;kjlfalskfjlaskjdfaskljfdaskfjasdkfjaskfjaslkdfj'sdfkja'ksjdfal'ksfjasfjakfj'akjfafdjasfdjasfjfdja
+y
 
 # These lines are needed in most turtle programs
 import turtle                           # Tell Python we want to work with the turtle
